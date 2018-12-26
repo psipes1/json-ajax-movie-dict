@@ -1,0 +1,58 @@
+{
+    "movies": [
+        {
+            "title": "The Godfather",
+            "year": "1972",
+            "genre": "Drama",
+            "director": "Francis Ford Copolla",
+            "image": "http://www.gstatic.com/tv/thumb/v22vodart/6326/p6326_v_v8_aj.jpg"
+        },
+        {
+            "title": "Superbad",
+            "year": "2007",
+            "genre": "Comedy",
+            "director": "Greg Mottola",
+            "image": "http://www.gstatic.com/tv/thumb/v22vodart/167014/p167014_v_v8_aa.jpg"
+        },
+        {
+            "title": "The Departed",
+            "year": "2006",
+            "genre": "Drama",
+            "director": "Martin Scorsese",
+            "image": "http://www.gstatic.com/tv/thumb/v22vodart/162564/p162564_v_v8_ah.jpg"
+        },
+        {
+            "title": "Saving Private Ryan",
+            "year": "1998",
+            "genre": "Action",
+            "director": "Steven Spielberg",
+            "image": "http://www.gstatic.com/tv/thumb/v22vodart/21441/p21441_v_v8_ab.jpg"
+        },
+        {
+            "title": "The Expendables",
+            "year": "2010",
+            "genre": "Action",
+            "director": "Sylvester Stallone",
+            "image": "https://resizing.flixster.com/k-hQG65TzYUhiB-Dc96dYlrvpKw=/206x305/v1.bTsxMTE3NDQ4ODtqOzE3OTQ5OzEyMDA7ODQwOzEyMDA"
+        },
+
+        {
+            "title": "Friday Night Lights",
+            "year": "2004",
+            "genre": "Drama",
+            "director": "Peter Berg",
+            "image": "http://www.gstatic.com/tv/thumb/v22vodart/34930/p34930_v_v8_ae.jpg"
+        },
+
+        {
+            "title": "Happy Gilmore",
+            "year": "1996",
+            "genre": "Comedy",
+            "director": "Dennis Dugan",
+            "image": "http://www.gstatic.com/tv/thumb/v22vodart/17735/p17735_v_v8_ad.jpg"
+        }
+
+       
+    ]
+
+}
